@@ -1,3 +1,5 @@
+//Slave side code
+
 #define SIGNAL_PIN 2     // Signal from master (flame)
 #define BUZZER_PIN 3     // Buzzer
 #define GAS_PIN A0       // MQ-2 analog output

@@ -1,3 +1,4 @@
+// Master side code
 #include <WiFiS3.h>
 #include <ArduinoHttpClient.h>
 
